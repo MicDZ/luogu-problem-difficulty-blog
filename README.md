@@ -1,7 +1,7 @@
 # luogu-problem-difficulty-blog
 
 这是一个来自memset0的开源洛谷应用——洛谷通过题目难度统计博客版本，采用自动化脚本方便各位使用。
-
+麻烦给颗小星星
 统计（通过）的洛谷题目的难度
 
 ![](https://i.loli.net/2018/08/23/5b7e99f5310af.png)
