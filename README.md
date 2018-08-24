@@ -1,6 +1,6 @@
 # luogu-problem-difficulty-blog
 
-这是一个来自memset0的开源洛谷应用——洛谷通过题目难度统计博客版本
+这是一个来自memset0的开源洛谷应用——洛谷通过题目难度统计博客版本，灵感来自yyfcpp大佬。
 
 完全采用自动化脚本方便各位使用
 
