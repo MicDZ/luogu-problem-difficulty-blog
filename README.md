@@ -4,6 +4,8 @@
 
 完全采用自动化脚本方便各位使用
 
+我只写了make.cpp部分和把main.py魔改了一下，对于python我才刚刚入门
+
 麻烦给颗小星星
 
 ![](https://i.loli.net/2018/08/23/5b7e99f5310af.png)
