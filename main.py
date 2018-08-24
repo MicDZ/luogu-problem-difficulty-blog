@@ -196,9 +196,10 @@ def finish():
 
 # ========== 主程序部分 ==========
 
-init()
+if __name__ == '__main__':
+    init()
 
-for it in UserID:
-    result(it, statistics(listAC(int(it))))
+    for it in UserID:
+        result(it, statistics(listAC(int(it))))
 
-finish()
+    finish()
