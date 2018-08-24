@@ -26,5 +26,5 @@ git clone "https://github.com/MicDZ/luogu-problem-difficulty-blog.git"
 3. 在主目录下的`config.yml`中按照中文提示填写
 4. 运行`Second.bat`，如果电脑是32位运行`Second-32.bat`，在result.txt中得到最终markdown源码
 
-注意！从第二次开始使用起即可直接从第2步开始。
+注意！从第二次开始使用起即可直接从第4步开始。
 
